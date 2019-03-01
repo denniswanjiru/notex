@@ -11,21 +11,21 @@ export default function About() {
           <img src="" alt=""/>
           <div>
             <h4>Dennis Wanjiru</h4>
-            <p>Description</p>
+            <p>UI/UX Enthusiast and JavaScript Advocate</p>
           </div>
         </div>
         <div>
           <img src="" alt=""/>
           <div>
             <h4>Ronald Ndirangu</h4>
-            <p>Description</p>
+            <p>Robotics Enthusiast</p>
           </div>
         </div>
         <div>
           <img src="" alt=""/>
           <div>
             <h4>Duncan Warukira</h4>
-            <p>Description</p>
+            <p>Philosopher, Gopher and IDK</p>
           </div>
         </div>
       </div>

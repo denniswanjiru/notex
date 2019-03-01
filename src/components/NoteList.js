@@ -38,7 +38,7 @@ export default function NoteList() {
         transitionEnterTimeout={1000}
         transitionLeaveTimeout={1000}
       >
-        {state.notes && state.notes.reverse().map(note => <Note key={note.id} note={note} />)}
+        {state.notes && state.notes.map(note => <Note key={note.id} note={note} />)}
       </ReactCSSTransitionGroup>
     </Fragment>
   )

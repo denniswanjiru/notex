@@ -1,13 +1,5 @@
 .container {
-  margin-top: 70px;
-  display: flex;
-  justify-content: center;
-}
-
-.layout {
-  display: flex;
-  flex-direction: column;
-  width: 50vw;
+  padding: 80px 320px!important;
 }
 
 input {
